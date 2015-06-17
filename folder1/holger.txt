@@ -5,3 +5,5 @@ Hier steht mein Name: Holger Mügge
 Hier mein Geburtstag: 15.06.1967
 
 Mein Lieblingsessen: Spaghetti (wenigstens zur Zeit)
+
+Das hier füge ich hinzu, während ich Andrea in einem anderen Feature Branch schon angelegt habe.
