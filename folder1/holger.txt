@@ -8,4 +8,4 @@ Hier mein Geburtstag: 15.06.1967
 
 Das hier füge ich hinzu, während ich Andrea in einem anderen Feature Branch schon angelegt habe.
 
-Finishing it. For 1.1.
+Finishing the feature branch. For 1.1.
