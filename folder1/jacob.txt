@@ -1,1 +1,3 @@
 Jacob hat jetzt auch einen ersten Text.
+
+Jetzt freigegeben für Release 1.4
