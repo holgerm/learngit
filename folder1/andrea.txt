@@ -2,4 +2,4 @@ Andrea Wienken
 
 Über Andrea könnte ich viel schreiben. Aber das lasse ich jetzt mal.
 
-Finishing it. For 1.1.
+Finishing the feature branch. For 1.1.
